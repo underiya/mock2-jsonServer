@@ -12,5 +12,17 @@
             "phn": 1234567890,
             "id": 2
         }
+    ],
+    "history": [
+        {
+            "id": 1,
+            "userId": 1,
+            "type": "income",
+            "transaction": {
+                "type": "credit",
+                "source": "salary",
+                "amount": 123
+            }
+        }
     ]
 }
